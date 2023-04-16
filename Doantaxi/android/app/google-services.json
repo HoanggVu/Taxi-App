@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482474467582",
+    "firebase_url": "https://taxibooking-5aa3a-default-rtdb.firebaseio.com",
+    "project_id": "taxibooking-5aa3a",
+    "storage_bucket": "taxibooking-5aa3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482474467582:android:7bca51a18ac8768f5c85af",
+        "android_client_info": {
+          "package_name": "com.example.doantaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482474467582-fc69m0dr7p7gipp5uu9sebqlltbbvdev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCIjWpAQtIAXQebw_xhGfTG6eB974zcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482474467582-fc69m0dr7p7gipp5uu9sebqlltbbvdev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
